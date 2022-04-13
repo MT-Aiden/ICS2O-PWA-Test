@@ -1,4 +1,4 @@
-# ASSIGNMENT-02
+# ICS2O-PWA-Test
 
 [![GitHub's Super Linter](https://github.com/MT-Aiden/ICS2O-PWA-Test/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/MT-Aiden/ICS2O-PWA-Test/actions)
 
